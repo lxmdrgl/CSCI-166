@@ -1,9 +1,6 @@
-video width="640" height="480" controls>
-  <source src="data:video/mp4;base64,PUT_YOUR_BASE64_ENCODED_VIDEO_HERE" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+# Demon Attack Videos
 
-<video width="640" height="480" controls>
-  <source src="data:video/mp4;base64,PUT_YOUR_BASE64_ENCODED_VIDEO_HERE" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+| Preview | Video |
+|---------|-------|
+| <img src="docs/thumb_demonattack_5.png" width="120"/> | <a href="https://github.com/yourusername/yourrepo/raw/main/demonattack_5.mp4" target="_blank">▶ Watch</a> |
+| <img src="docs/thumb_demonattack_200.png" width="120"/> | <a href="https://github.com/yourusername/yourrepo/raw/main/demonattack_200.mp4" target="_blank">▶ Watch</a> |
